@@ -48,3 +48,27 @@ This subset includes explanations for the 600 ELI5 test questions and 97 science
 
 The Jupyter notebook `get_samples.ipynb` can import the JSON file and process it.
 
+## Citation
+
+If you use our code, data or find our work useful, please cite our paper:
+
+```bibtex
+@inproceedings{fichtel-etal-2026-attribute,
+    title = "Attribute-Based Activation Steering of {LLM}s for Group-Specific Explanation Generation",
+    author = "Fichtel, Leandra  and
+      Prange, Janek  and
+      Wachsmuth, Henning",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.emnlp-main.127/",
+    pages = "2929--2959",
+    ISBN = "979-8-89176-459-0"
+}
+```
