@@ -1,6 +1,6 @@
 # Attribute-based Activation Steering of LLMs for Group-Specific Explanation Generation
 
-The repository contains the source code to reproduce the results of the paper [**"Attribute-based Activation Steering of LLMs for Group-Specific Explanation Generation"**](https://arxiv.org/pdf/2608.29215).
+The repository contains the source code to reproduce the results of the paper [**"Attribute-based Activation Steering of LLMs for Group-Specific Explanation Generation"**](https://aclanthology.org/2026.emnlp-main.127.pdf).
 
 ## Usage
 
